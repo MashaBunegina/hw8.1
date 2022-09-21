@@ -8,7 +8,7 @@ public class Main {
             numbers[1] = 2;
             numbers[2] = 3;
             double[] doubles = {1.56, 7.654, 9.986};
-            int [] weight = {57, 55, 59};
+            int [] weight = {57, 55, 58};
             for (int i = 0; i < numbers.length; i++) {
                 if (i != numbers.length - 1) {
                     System.out.print(numbers[i] + ",");
